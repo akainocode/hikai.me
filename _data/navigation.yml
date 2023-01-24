@@ -50,3 +50,8 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+ffxiv-docs-en:
+  - title: The Omega Protocol (Ultimate)
+    children:
+      - title: "Phase 1: Omega (o11 form)"
