@@ -1,4 +1,4 @@
-.author-links {
+.follow-me {
   & > ul {
     margin: 0;
     & > li > {
@@ -25,12 +25,6 @@
       }
       .douban-button {
         @include clickable($text-color-1, $douban-color);
-      }
-      .npm-button {
-        @include clickable($text-color-1, $npm-color);
-      }
-      .telegram-button {
-        @include clickable($text-color-1, $telegram-color);
       }
     }
   }
