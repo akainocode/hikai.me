@@ -55,11 +55,11 @@ header:
     url: ffxiv/info
 
 ffxiv:
-  - title:  The Omega Protocol (Ultimate)
+  - title: The Omega Protocol (Ultimate)
     children:
-      - title:  "Overview"
-        url:  ffxiv/top/overview
-      - title:  "Phase 1: Omega (o11 form)"
-        url:  ffxiv/top/p1
-      - title:  "Phase 2: (To Be Discovered)"
-        url:  ffxiv/top/p2
+      - title: "Overview"
+        url: ffxiv/top/overview
+      - title: "Phase 1: Omega (o11 form)"
+        url: ffxiv/top/p1
+      - title: "Phase 2: (To Be Discovered)"
+        url: ffxiv/top/p2
