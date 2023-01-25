@@ -59,7 +59,7 @@ ffxiv:
     children:
       - title: "Overview"
         url: ffxiv/top/overview
-      - title: "Phase 1: Omega (o11 form)"
+      - title: "Phase 1: Omega (Beetle Form)"
         url: ffxiv/top/p1
       - title: "Phase 2: (To Be Discovered)"
         url: ffxiv/top/p2
