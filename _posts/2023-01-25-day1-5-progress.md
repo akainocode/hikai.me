@@ -10,3 +10,5 @@ Heyo - today we were able to sneak in a short 2h raid night, a lot cleaner, we h
 
 As usual, here's the clip of our longest prog point: https://clips.twitch.tv/SleepyTriumphantChowderDeIlluminati-VXb495lUQaDrahOD
 Here's the VOD for day 1.5: https://youtu.be/BSfLr2m95AM (if this isn't live by the time I've made this push, it will be soon :o)
+
+As a reminder, here's a [link](../ffxiv/top/p1) to our p1 guide.
