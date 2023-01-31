@@ -61,5 +61,7 @@ ffxiv:
         url: ffxiv/top/overview
       - title: "Phase 1: Omega (Beetle Form)"
         url: ffxiv/top/p1
-      - title: "Phase 2: (To Be Discovered)"
+      - title: "Phase 2: Omega M/F"
         url: ffxiv/top/p2
+      - title: "Phase 3: (To Be Discovered)"
+        url: ffxiv/top/p3
