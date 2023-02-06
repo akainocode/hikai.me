@@ -17,3 +17,5 @@ We only really got a very short clip of the beginning of Limitless Synergy, so h
 Oh right, here's our prog point for the day: [https://www.youtube.com/watch?v=GmX9zYF3PCw](https://www.youtube.com/watch?v=GmX9zYF3PCw)
 
 Also here's the day 5 vod if people are interested in that: [https://www.youtube.com/watch?v=egcmi1rB6BM](https://www.youtube.com/watch?v=egcmi1rB6BM)
+
+oh right, i also pressed caps 6255 times
