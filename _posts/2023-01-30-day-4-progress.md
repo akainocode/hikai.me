@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 2023.01.29 - TOP Blind Day 4 
+title: 2023.01.30 - TOP Blind Day 4 
 tags: FFXIV TOP Blind
 ---
 
